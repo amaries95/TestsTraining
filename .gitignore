@@ -1,0 +1,11 @@
+TestsTraining.Api/bin/*
+TestsTraining/obj/*
+TestsTraining.Api/obj/*
+TestsTraining.Domain/obj/*
+TestsTraining.Domain/bin/*
+TestsTraining.Data/obj/*
+TestsTraining.Data/bin/*
+TestsTraining.Tests/bin/*
+TestsTraining.Tests/obj/*
+.vs/*
+obj/*
