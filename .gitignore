@@ -9,3 +9,6 @@ TestsTraining.Tests/bin/*
 TestsTraining.Tests/obj/*
 .vs/*
 obj/*
+obj/
+bin/
+.idea/

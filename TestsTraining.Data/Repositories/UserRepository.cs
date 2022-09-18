@@ -16,7 +16,7 @@ namespace TestsTraining.Data.Repositories
 
         public async Task<User?> GetUserById(int id)
         {
-            return await _projectProjectDbContext.Users.SingleOrDefaultAsync(x => x.Id == id);
+			return await _projectProjectDbContext.Users.SingleOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task<List<User?>> GetAllUsers()
